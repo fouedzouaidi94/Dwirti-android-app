@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_chat" type="id" />
+    <item name="add_depense_button" type="id" />
+    <item name="mytabs" type="id" />
+    <item name="viewpager" type="id" />
+    <item name="drawer_layout" type="id" />
+    <item name="nav_view" type="id" />
+    <item name="mytoolbar" type="id" />
+</resources>
